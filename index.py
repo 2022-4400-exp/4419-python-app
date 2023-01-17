@@ -30,7 +30,7 @@ def index_post():
     return redirect("/")
 
 if __name__ == '__main__':
-    # フォルダの作成
+# フォルダの作成
     os.makedirs("/var/python-app", exist_ok=True)
     # Flask起動
     app.run(host='0.0.0.0', port=5000, debug=True)
