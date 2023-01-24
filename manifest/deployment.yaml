@@ -15,5 +15,5 @@ spec:
         app: python-app
     spec:
       containers:
-        - image: ghcr.io/2022-4400-exp/4419-python-app:bfc98cccbeb648707f430d654743d57ca909f9da
+        - image: ghcr.io/2022-4400-exp/4419-python-app:9626b41011ae0911ee5a4ccbc0a066f7273ffea8
           name: python-app
