@@ -15,6 +15,6 @@ spec:
         app: python-app
     spec:
       containers:
-      - image: izzzz/python-app
+      - image: ghcr.io/2022-4400-exp/4419-python-app:fed01cead7cc716e846cf596622d5909957fa12c@sha256:f415efcb73033b237bf57c80f2ffcd122612deaed2acfc1acff2024715c35ee5
         name: python-app
       
